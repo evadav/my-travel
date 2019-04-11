@@ -18,6 +18,13 @@ class App extends Component {
         photo="https://static.amazon.jobs/locations/42/thumbnails/Madrid_-_Thumbnail.jpg?1453992961"
         distance="2000"
         />
+        <Travel 
+        destination ='Barcelona'
+        country= 'Spain'
+        photo="https://static.amazon.jobs/locations/171/thumbnails/FC-Barcelona-Spain_image.jpg?1481893206"
+        distance="3000"
+        />
+       
       </div>
     );
   }
